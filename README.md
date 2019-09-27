@@ -5,6 +5,8 @@
 
 ### 个人主要项目
 
+由于项目包含本人努力成果，所以未将相关代码列出，如需交流可直接联系本人
+
 #### [智能交通车辆监控](https://github.com/ljgithub669/all/blob/master/details/Intelligence_Traffic.md)
 
 #### [人脸识别--证件丢失自动联系失主系统](https://github.com/ljgithub669/all/blob/master/details/Find_Card.md)
